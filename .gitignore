@@ -170,5 +170,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .OTTER_LOG
+data/
+
+
 
 
